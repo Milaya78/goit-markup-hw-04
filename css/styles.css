@@ -390,6 +390,6 @@ img {
 .page-footer .social-link:focus {
   background-color: #31d0aa;
 }
-.page-footer.social-list {
+.page-footer .social-list {
   gap: 16px;
 }
